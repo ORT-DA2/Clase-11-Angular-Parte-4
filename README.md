@@ -288,8 +288,6 @@ Vayamos al ```PetListComponent``` y en el ```OnInit```:
         )
     }
 ```    
-
-![imagen](doc-img/http_messages.png)
     
 ## Conceptos avanzados de Routing
 
